@@ -1,0 +1,281 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@fpt.edu.vn",
+      "password": "123",
+      "name": "Administrator",
+      "role": "Admin",
+      "status": "active",
+      "phone": "222",
+      "address": null,
+      "bio": null,
+      "avatar": "avartar.jpg"
+    },
+    {
+      "id": "2",
+      "email": "user@fpt.edu.vn",
+      "password": "123",
+      "name": "Trương Gia Đức Tài",
+      "role": "User",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "email": "a@gmail.com",
+      "password": "123",
+      "name": "Độc giả A",
+      "role": "User",
+      "status": "active",
+      "createdAt": "2025-12-07T07:25:43.491Z"
+    },
+    {
+      "id": "4",
+      "name": "Trương Gia Đức Tài",
+      "email": "tai@gmail.com",
+      "password": "123123",
+      "role": "Admin",
+      "status": "active",
+      "createdAt": "2025-12-08T07:16:48.149Z",
+      "phone": "",
+      "address": ""
+    },
+    {
+      "id": "f8c5",
+      "name": "Bình",
+      "email": "b@abc.abc",
+      "password": "123123",
+      "role": "User",
+      "status": "active",
+      "createdAt": "2025-12-08T07:59:50.328Z",
+      "phone": "01010101010",
+      "address": "",
+      "bio": null,
+      "avatar": "avartar.jpg"
+    },
+    {
+      "id": "8ca2",
+      "name": "tuan",
+      "email": "tuan@abc.abc",
+      "role": "Admin",
+      "phone": "222",
+      "address": "",
+      "password": "123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Muốn tự chủ công nghệ, phải ưu đãi mạnh cho sản phẩm chiến lược",
+      "summary": "Đại biểu Trần Anh Tuấn cho rằng sản phẩm công nghệ chiến lược quyết định năng lực tự chủ công nghệ quốc gia nhưng rủi ro lớn, cần ưu đãi đủ mạnh để doanh nghiệp dám đầu tư.",
+      "content": "Nội dung chi tiết của bài viết 1: Đại biểu Trần Anh Tuấn nhấn mạnh rằng các sản phẩm công nghệ cốt lõi, mang tính chất chiến lược là yếu tố then chốt quyết định đến năng lực tự chủ công nghệ của một quốc gia. Tuy nhiên, việc nghiên cứu và phát triển các sản phẩm này thường đi kèm với rủi ro rất lớn về vốn và thời gian. Do đó, cần có các chính sách ưu đãi đủ mạnh, vượt trội so với các lĩnh vực khác, để khuyến khích các doanh nghiệp trong nước mạnh dạn đầu tư vào các dự án công nghệ mang tính đột phá và dài hạn. Chính phủ cần tạo điều kiện về mặt pháp lý, thuế, và nguồn vốn để đảm bảo sự thành công của các dự án này.\nBên cạnh đó, việc xây dựng một hệ sinh thái công nghệ mở, kết nối giữa các viện nghiên cứu, trường đại học và doanh nghiệp là điều không thể thiếu. Việc chuyển giao công nghệ và hợp tác quốc tế có chọn lọc sẽ giúp Việt Nam nhanh chóng rút ngắn khoảng cách với các cường quốc công nghệ trên thế giới, đồng thời tăng cường khả năng tự vệ và cạnh tranh trên thị trường toàn cầu. Mục tiêu cuối cùng là làm chủ được các công nghệ quan trọng nhất, không bị phụ thuộc vào nước ngoài trong các lĩnh vực trọng yếu.",
+      "author": "Sơn Hà",
+      "category": "Công Nghệ",
+      "date": "01/12/2025",
+      "status": "published",
+      "imageName": "congnghe1.webp",
+      "views": 1555
+    },
+    {
+      "id": "2",
+      "title": "Gia Lai, Khánh Hòa lũ giảm, Đăk Lăk nhiều nơi còn ngập sâu",
+      "summary": "Gia Lai, Khánh Hòa lũ giảm, người dân dọn dẹp nhà cửa, còn Đăk Lăk còn mưa lớn, nước dâng cao, chính quyền công bố tình trạng thiên tai khẩn cấp.",
+      "content": "Nội dung chi tiết của bài viết 2: Sau nhiều ngày mưa lũ kéo dài, tình hình tại các tỉnh miền Trung và Tây Nguyên đã có sự phân hóa rõ rệt. Tại Gia Lai và Khánh Hòa, mực nước lũ đã rút đáng kể, tạo điều kiện cho người dân quay trở lại dọn dẹp nhà cửa, khôi phục sinh hoạt. Công tác vệ sinh môi trường, phòng chống dịch bệnh đang được triển khai khẩn trương.\nTuy nhiên, tại Đăk Lăk, mưa lớn vẫn tiếp diễn, khiến nhiều khu vực vùng trũng vẫn bị ngập sâu, chia cắt. Chính quyền địa phương đã phải công bố tình trạng thiên tai khẩn cấp, huy động tối đa lực lượng quân đội và công an để hỗ trợ di dời người dân và tài sản đến nơi an toàn. Các tuyến đường giao thông huyết mạch bị tắc nghẽn, gây khó khăn cho công tác cứu trợ. Lực lượng chức năng khuyến cáo người dân tại các khu vực nguy hiểm tuyệt đối không di chuyển qua các vùng nước chảy xiết và chủ động theo dõi các bản tin cảnh báo thời tiết.",
+      "author": "Nhóm phóng viên",
+      "category": "Thời sự",
+      "date": "30/11/2025",
+      "status": "published",
+      "imageName": "ngaplut.webp",
+      "views": 15
+    },
+    {
+      "id": "3",
+      "title": "Dự thảo kế hoạch 28 điểm của Mỹ để chấm dứt chiến sự Ukraine",
+      "summary": "Dự thảo đề xuất các bước tiến hành đàm phán, đảm bảo an ninh khu vực và các điều kiện ngừng bắn chi tiết giữa hai bên.",
+      "content": "Nội dung chi tiết của bài viết 3: Chính phủ Mỹ vừa công bố một dự thảo kế hoạch chi tiết gồm 28 điểm nhằm tìm kiếm giải pháp chấm dứt chiến sự tại Ukraine. Dự thảo này không chỉ tập trung vào các bước tiến hành đàm phán trực tiếp giữa Moscow và Kyiv, mà còn bao gồm các biện pháp đảm bảo an ninh khu vực Đông Âu lâu dài.\nCác điểm nổi bật trong dự thảo bao gồm đề xuất về một lệnh ngừng bắn toàn diện, thiết lập các hành lang nhân đạo an toàn, và cơ chế giám sát quốc tế. Đặc biệt, dự thảo còn phác thảo các điều kiện chi tiết về việc rút quân, trao đổi tù binh, và cơ chế bồi thường thiệt hại chiến tranh. Đây được xem là nỗ lực ngoại giao lớn nhất từ phía phương Tây nhằm tìm kiếm hòa bình, mặc dù các bên liên quan vẫn còn nhiều bất đồng về các điều khoản cốt lõi, đặc biệt là về vấn đề lãnh thổ và đảm bảo an ninh tương lai cho Ukraine.",
+      "author": "Phóng viên QT",
+      "category": "Quốc Tế",
+      "date": "29/11/2025",
+      "status": "published",
+      "imageName": "trump1.webp",
+      "views": 3
+    },
+    {
+      "id": "4",
+      "title": "Cổ phiếu Vietjet Air tăng trần, chứng khoán 'xanh vỏ, đỏ lòng'",
+      "summary": "Cổ phiếu Vietjet Air tăng hết biên độ lên tiệm cận vùng đỉnh cũ, góp sức giúp chứng khoán tăng gần 7 điểm dù thị trường 'xanh vỏ, đỏ lòng'.",
+      "content": "Cổ phiếu Vietjet Air tăng hết biên độ lên tiệm cận vùng đỉnh cũ, góp sức giúp chứng khoán tăng gần 7 điểm dù thị trường \"xanh vỏ, đỏ lòng\".\n\nVJC của Vietjet Air tăng mạnh khi thị trường mở cửa rồi nhanh chóng lên mức trần 190.400 đồng một đơn vị từ cuối buổi và giữ suốt đến khi kết phiên. Chốt giá này giúp VJC trở lại tiệm cận vùng đỉnh 195.500 đồng từng thiết lập hồi cuối tháng 10.\n\nTrong buổi chiều, mã chứng khoán của Vietjet Air thường xuyên rơi vào tình trạng \"trắng\" bên bán. Thanh khoản cả ngày ghi nhận trên 563 tỷ đồng với hơn 3 triệu cổ phiếu được sang tay. Kết phiên, mã này còn dư mua gần 312.000 đơn vị.\nVJC đứng thứ hai trong nhóm 10 cổ phiếu hỗ trợ tích cực cho VN-Index hôm nay. Nhìn chung, chứng khoán có diễn biến khá tích cực. Buổi sáng, chỉ số của sàn HoSE tăng dần đều, có lúc vượt mốc 1.660 điểm nhưng sau đó phải hạ độ cao.\n\nSang buổi chiều, thị trường có phần đi ngang. Trước 14h, chỉ số chung còn bị kéo về dưới tham chiếu nhưng giảm không sâu, sau đó nhanh chóng hồi phục. VN-Index đóng cửa sát 1.656 điểm, tăng gần 7 điểm so với hôm qua.\n\nTuy nhiên thị trường rơi vào tình trạng \"xanh vỏ, đỏ lòng\" khi có 179 cổ phiếu giảm giá, nhiều hơn 120 mã tăng. Tình trạng tương tự cũng xảy ra ở rổ VN30 khi chỉ số đại diện tăng hơn 11 điểm nhưng nhóm này ghi nhận 13 mã đỏ. Điều này cho thấy thị trường đang được kéo điểm bởi một vài mã trụ.",
+      "author": "Analyst Z",
+      "category": "Kinh Tế",
+      "date": "28/11/2025",
+      "status": "published",
+      "imageName": "chungkhoan1.jpeg",
+      "views": 6,
+      "slug": "c-phiu-vietjet-air-tng-trn-chng-khon-xanh-v--lng"
+    },
+    {
+      "id": "5",
+      "title": "21 ngày thi Miss Universe của Hương Giang: 'Trắng tay nhưng nhận về sự quan tâm'",
+      "summary": "Người đẹp Hương Giang nói trắng tay tại Miss Universe 2025 nhưng nhận về sự quan tâm của khán giả, truyền thông trong nước và quốc tế.",
+      "content": "Nội dung chi tiết của bài viết 5: Hành trình 21 ngày của người đẹp Hương Giang tại cuộc thi Miss Universe 2025 đã khép lại mà không mang về chiếc vương miện nào. Tuy nhiên, cô chia sẻ rằng dù 'trắng tay' về danh hiệu, cô lại nhận về một 'chiến thắng' khác quan trọng hơn: đó là sự quan tâm đặc biệt và tình yêu thương của khán giả, truyền thông trong nước và quốc tế. Hương Giang được đánh giá cao về sự tự tin, phong thái chuyên nghiệp và khả năng giao tiếp lưu loát.\nNhiều chuyên gia sắc đẹp nhận định, dù không vào sâu, Hương Giang đã góp phần nâng cao hình ảnh và vị thế của Việt Nam trên bản đồ nhan sắc quốc tế. Cô đã sử dụng nền tảng của cuộc thi để truyền tải thông điệp về sự kiên cường, tự tin của người phụ nữ hiện đại. Sự trở về của cô được chào đón nồng nhiệt, khẳng định rằng giá trị của một đại diện không chỉ nằm ở giải thưởng mà còn ở những ảnh hưởng tích cực mà họ mang lại.",
+      "author": "Phóng viên GT",
+      "category": "Giải Trí",
+      "date": "27/11/2025",
+      "status": "published",
+      "imageName": "giaitri1.webp",
+      "views": 3
+    },
+    {
+      "id": "6",
+      "title": "Google ra Gemini 3 - mô hình AI có khả năng đọc hiểu tình huống phức tạp",
+      "summary": "Gemini 3 được giới thiệu có thể đọc hiểu đa phương thức, hiểu nhiều tầng ý nghĩa của câu lệnh, cùng khả năng lập luận sâu, trả lời súc tích.",
+      "content": "Nội dung chi tiết của bài viết 6: Google vừa chính thức ra mắt Gemini 3, thế hệ mô hình trí tuệ nhân tạo (AI) mới nhất với những cải tiến đáng kể, đặc biệt là khả năng **đọc hiểu tình huống phức tạp (contextual understanding)**. Mô hình này không chỉ xử lý dữ liệu đa phương thức (văn bản, hình ảnh, âm thanh) mà còn có thể hiểu được nhiều tầng ý nghĩa ẩn sau các câu lệnh của người dùng.\nKhả năng lập luận sâu (deep reasoning) của Gemini 3 cho phép nó xử lý các bài toán logic phức tạp, đưa ra các câu trả lời súc tích và chính xác hơn so với các phiên bản trước. Google kỳ vọng Gemini 3 sẽ mở ra kỷ nguyên mới cho các ứng dụng AI cá nhân và doanh nghiệp, từ việc hỗ trợ lập trình, phân tích dữ liệu chuyên sâu cho đến việc tạo ra nội dung sáng tạo với độ chân thực cao. Sự ra đời của Gemini 3 được xem là một bước ngoặt lớn, đẩy mạnh cuộc đua AI toàn cầu.",
+      "author": "TGDT",
+      "category": "Công Nghệ",
+      "date": "26/11/2025",
+      "status": "published",
+      "imageName": "Gemini-3-1763490130-5213-1763490315.webp",
+      "views": 4
+    },
+    {
+      "id": "9",
+      "title": "Trạm thu phí BOT tự động chính thức áp dụng toàn quốc",
+      "summary": "Từ tháng 12/2025, tất cả các trạm thu phí BOT trên cả nước sẽ chuyển sang thu phí không dừng (ETC) hoàn toàn, mang lại lợi ích lớn cho giao thông.",
+      "content": "Trạm thu phí là một phần quan trọng trong hệ thống giao thông đường bộ, góp phần duy trì, bảo dưỡng và phát triển hạ tầng giao thông quốc gia. Bài viết dưới đây của Bridgestone sẽ giúp bạn hiểu rõ trạm thu phí là gì, cách phân loại, danh sách trạm thu phí trên toàn quốc, cũng như mức phí tham khảo và các lưu ý quan trọng khi di chuyển qua trạm.\n\nTrạm thu phí là gì? Tại sao có trạm thu phí?\nTrạm thu phí là điểm được đặt trên các tuyến đường giao thông, nơi các phương tiện qua lại phải nộp một khoản phí nhất định để sử dụng hạ tầng đường bộ. Khoản phí này được dùng cho việc hoàn vốn đầu tư, bảo trì và nâng cấp công trình giao thông.\n\nThông thường, các trạm thu phí được xây dựng trong khuôn khổ dự án BOT (Build – Operate – Transfer), tức là hình thức hợp tác giữa Nhà nước và nhà đầu tư tư nhân. Theo đó, nhà đầu tư bỏ vốn xây dựng công trình, được quyền vận hành và thu phí trong một thời gian nhất định để thu hồi vốn và lợi nhuận. Khi hết thời hạn, công trình sẽ được bàn giao lại cho Nhà nước quản lý.",
+      "author": "Bộ GTVT",
+      "category": "Thời sự",
+      "date": "15/11/2025",
+      "status": "published",
+      "imageName": "bot.webp",
+      "views": 8,
+      "slug": "trm-thu-ph-bot-t-ng-chnh-thc-p-dng-ton-quc"
+    },
+    {
+      "id": "10",
+      "title": "Sự trỗi dậy của công nghệ Blockchain trong ngành Logistics",
+      "summary": "Công nghệ Blockchain hứa hẹn mang lại sự minh bạch và bảo mật cao hơn cho chuỗi cung ứng toàn cầu, giải quyết bài toán truy xuất nguồn gốc.",
+      "content": "Nội dung chi tiết của bài viết 10: Đây là bài viết mẫu để hoàn thiện danh mục Công Nghệ. Bài viết này nhằm mục đích thử nghiệm hiển thị danh sách bài viết trên trang chủ.",
+      "author": "Kỹ sư T",
+      "category": "Công Nghệ",
+      "date": "05/11/2025",
+      "status": "published",
+      "imageName": "congnghe3.webp",
+      "views": 8
+    },
+    {
+      "id": "97d3",
+      "title": "Việt Nam kêu gọi Campuchia và Thái Lan kiềm chế",
+      "summary": "Thủ tướng Phạm Minh Chính kêu gọi Campuchia cùng Thái Lan kiềm chế và tuân thủ thỏa thuận hòa bình, khi hội đàm với Thủ tướng Hun Manet.",
+      "content": "Thủ tướng Phạm Minh Chính kêu gọi Campuchia cùng Thái Lan kiềm chế và tuân thủ thỏa thuận hòa bình, khi hội đàm với Thủ tướng Hun Manet.\n\nTrong cuộc hội đàm sáng 8/12 nhân dịp đồng chủ trì lễ khai trương cửa khẩu quốc tế Tân Nam - Meun Chey, Thủ tướng Phạm Minh Chính trao đổi với Thủ tướng Campuchia Hun Manet về căng thẳng biên giới Campuchia - Thái Lan, theo Bộ Ngoại giao.\n\nÔng khẳng định Việt Nam luôn quan tâm, theo sát tình hình và sẽ tiếp tục đóng góp vào giải pháp hòa bình nhằm giải quyết căng thẳng, kêu gọi Thái Lan và Campuchia kiềm chế, đối thoại, tôn trọng lợi ích chính đáng của nhau và tuân thủ thỏa thuận hòa bình.\n\nViệt Nam luôn coi trọng và ủng hộ các nỗ lực giải quyết mọi bất đồng bằng biện pháp hòa bình, cho rằng ổn định lâu dài là biện pháp tốt nhất cho cả Campuchia và Thái Lan, cũng như vì đoàn kết ASEAN, vì môi trường hòa bình, ổn định, hợp tác và phát triển của khu vực và thế giới.\nHai Thủ tướng đánh giá cao ý nghĩa việc khai trương cửa khẩu quốc tế Tân Nam - Meun Chey trong việc gia tăng gắn kết, kinh tế, thương mại và giao lưu nhân dân, khẳng định quyết tâm tiếp tục hoàn thiện hệ thống cửa khẩu, nâng cấp hạ tầng giao thông xuyên biên giới, tạo động lực mới cho phát triển kinh tế khu vực.\n\nBên cạnh những mặt tích cực của việc khai trương cửa khẩu, hai Thủ tướng cùng cho rằng hai bên cần phối hợp tốt trong quản lý, giữ vững an ninh - trật tự khu vực biên giới, ngăn ngừa tội phạm xuyên biên giới, buôn lậu và các hoạt động phi pháp, đồng thời sớm ký kết \"Hiệp định về quản lý cửa khẩu\" và \"Hiệp định về quy chế quản lý biên giới\", nhằm tạo thuận lợi cho giao thương biên mậu, quản lý cửa khẩu, đáp ứng mục tiêu phát triển của hai nước trong giai đoạn mới.\n\nTrên nền tảng những thành tựu đạt được và với quyết tâm cao, hai bên đồng lòng phối hợp chặt chẽ đưa quan hệ hai nước phát triển mạnh mẽ hơn, chú trọng tăng cường tiếp xúc cấp cao, trao đổi đoàn trên tất cả các cấp, các kênh, phát huy các cơ chế hợp tác song phương hiện có.\n\nHai nước nhất trí củng cố hợp tác quốc phòng - an ninh, thực hiện nhất quán nguyên tắc không để các thế lực thù địch sử dụng lãnh thổ nước này để chống phá nước kia, duy trì an ninh trật tự khu vực biên giới, phòng chống tội phạm xuyên biên giới và lừa đảo trực tuyến, phối hợp đấu tranh chống luận điệu xuyên tạc, các tin giả, sai sự thật của các thế lực thù địch kích động, chống phá và chia rẽ quan hệ Việt Nam - Campuchia.\n\nThủ tướng Phạm Minh Chính và Thủ tướng Hun Manet nhất trí tập trung tạo đột phá trong hợp tác kinh tế, gia tăng gắn kết, kết nối hai nền kinh tế, bao gồm hợp tác phát triển kinh tế số, kết nối cơ sở hạ tầng và kết nối về thể chế chính sách, đặc biệt trong lĩnh vực thương mại, đầu tư, giao thông vận tải, văn hóa, du lịch, đẩy nhanh kết nối hạ tầng giao thông và logistics, đồng thời phát triển các cửa khẩu và hạ tầng thương mại biên giới, phấn đấu đưa kim ngạch thương mại song phương sớm đạt 20 tỷ USD trong thời gian tới.\n\nNhằm vun đắp và gìn giữ giá trị lịch sử của quan hệ, hai Thủ tướng nêu bật ý nghĩa với hai nước và người dân về việc phối hợp tuyên truyền sâu rộng về truyền thống đoàn kết, hữu nghị Việt Nam - Campuchia đến các tầng lớp nhân dân hai nước, nhất là thế hệ trẻ, đồng thời tăng cường giao lưu nhân dân với các hình thức mới.\n\nThủ tướng Phạm Minh Chính khẳng định Việt Nam sẵn sàng hỗ trợ Campuchia nâng cao chất lượng nguồn nhân lực, gia tăng học bổng đào tạo cho Campuchia.\n\nHai Thủ tướng nhấn mạnh tầm quan trọng của việc duy trì đường biên giới hai nước hòa bình, ổn định, hợp tác và phát triển bền vững, khẳng định tiếp tục phối hợp xử lý thỏa đáng, kịp thời các vấn đề phát sinh, trong đó có việc bảo vệ bền vững môi trường ở khu vực biên giới, thúc đẩy đàm phán, giải quyết khoảng 16% đường biên giới chưa hoàn thành phân giới cắm mốc, phối hợp quản lý biên giới cả trên bộ và trên biển với tinh thần hiểu biết, tôn trọng lẫn nhau và phù hợp luật pháp quốc tế.\n\nThủ tướng Phạm Minh Chính cũng đề nghị phía Campuchia tiếp tục quan tâm giải quyết vấn đề địa vị pháp lý để người gốc Việt tại Campuchia ổn định cuộc sống, đóng góp tích cực cho sự phát triển thịnh vượng của Campuchia và quan hệ hữu nghị hai nước.\nCăng thẳng biên giới giữa Thái Lan và Campuchia bùng phát thành đụng độ vào ngày 7/12, khi binh sĩ hai nước đấu súng dọc biên giới tranh chấp, khiến hai lính Thái Lan bị thương và người dân phải sơ tán.\n\nTình hình tiếp tục leo thang vào rạng sáng 8/12, khi Thái Lan cáo buộc Campuchia sử dụng pháo và \"đạn thả từ trên không\" để tấn công binh sĩ Thái Lan ở căn cứ Anupong, khiến một lính thiệt mạng. Không quân Thái Lan sau đó triển khai tiêm kích F-16 tấn công các mục tiêu quân sự trên lãnh thổ Campuchia.\n\nBộ Quốc phòng Campuchia cáo buộc quân nhân Thái Lan nổ súng trước vào các vị trí của Campuchia ở khu vực An Ses vào sáng nay. Xe tăng Thái Lan sau đó nã pháo về phía ba khu vực gồm đền Tamone Thom, gần đền Preah Vihear và Chomka Chek.\n\nBộ Quốc phòng Campuchia khẳng định quân đội nước này đã \"kiềm chế tối đa\" và không bắn trả, nhằm tuân thủ cam kết giải quyết xung đột bằng biện pháp hòa bình.\n\nNgười phát ngôn Bộ Ngoại giao Phạm Thu Hằng hôm nay cho biết Việt Nam bày tỏ lo ngại sâu sắc về những diễn biến căng thẳng giữa Campuchia và Thái Lan hiện nay.\n\nViệt Nam kêu gọi hai bên hết sức kiềm chế, không sử dụng vũ lực, thực hiện đầy đủ thỏa thuận ngừng bắn, tiếp tục đối thoại, giải quyết hòa bình và thỏa đáng các bất đồng trên cơ sở nguyên tắc cơ bản của luật pháp quốc tế, Hiến chương Liên Hợp Quốc, Hiến chương ASEAN, Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (TAC) và trên tinh thần hữu nghị, đoàn kết ASEAN, góp phần vào việc duy trì hòa bình, ổn định, hợp tác và phát triển ở khu vực và trên thế giới.\n\n\"Việt Nam sẽ tiếp tục đóng góp tích cực vào việc thúc đẩy đối thoại và thực hiện thỏa thuận ngừng bắn giữa hai nước nhằm sớm khôi phục hòa bình, hợp tác trên biên giới theo tinh thần hữu nghị, đoàn kết ASEAN, vì lợi ích lâu dài của cả hai bên và của khu vực\", bà Hằng nói.",
+      "author": "Admin",
+      "category": "Thời sự",
+      "date": "8/12/2025",
+      "status": "published",
+      "imageName": "Thu-tuong-Pham-Minh-Chinh-1765-4621-8078-1765183335.webp",
+      "slug": "vit-nam-ku-gi-campuchia-v-thi-lan-kim-ch",
+      "views": 4
+    },
+    {
+      "id": "792a",
+      "title": "Đường sắt Bến Thành - Cần Giờ sẽ chạy 17 tiếng/ngày",
+      "summary": "Thời gian tàu vận hành dự kiến từ 6h-23h, tất cả các ngày trong tuần. Khoảng thời gian từ 0h đến 6h sẽ dành cho công tác bảo trì, bảo dưỡng kết cấu hạ tầng và phương tiện.",
+      "content": "Thời gian tàu vận hành dự kiến từ 6h-23h, tất cả các ngày trong tuần. Khoảng thời gian từ 0h đến 6h sẽ dành cho công tác bảo trì, bảo dưỡng kết cấu hạ tầng và phương tiện.\nUBND TPHCM vừa có quyết định chấp thuận chủ trương đầu tư và nhà đầu tư đối với dự án đường sắt Bến Thành - Cần Giờ. Công ty CP Đầu tư và Phát triển đường sắt cao tốc VinSpeed (thuộc Vingroup) là đơn vị thực hiện.\n\nDự án có điểm đầu tại Công viên 23/9 (phường Bến Thành) và điểm cuối tại khu đất 39ha tiếp giáp Dự án Khu đô thị du lịch lấn biển Cần Giờ.\n\nVề quy mô đầu tư, dự án sẽ xây đường đôi, khổ 1.435mm, điện khí hóa với chiều dài tuyến chính khoảng 54,062km, tốc độ thiết kế 350 km/h, tải trọng trục 17 tấn/trục. \n\nDự án có 2 ga, giai đoạn 1 bao gồm ga Bến Thành và ga Cần Giờ; giai đoạn 2 (khi có nhu cầu) bao gồm 4 ga: ga Tân Thuận, Tân Mỹ, Nhà Bè, Bình Khánh; 1 depot dự kiến đặt tại xã Cần Giờ; 1 trung tâm điều khiển vận hành đặt tại xã Cần Giờ.\n\nNhu cầu sử dụng đất của dự án khoảng 328,26ha (bao gồm hành lang bảo vệ đường sắt)\nBên cạnh đó, tổng nhu cầu phương tiện cần đầu tư cho toàn dự án là 6 đoàn tàu hoạt động đồng thời trên tuyến và 1 đoàn tàu dự phòng (tương ứng với 56 toa tàu).\n\nThời gian vận hành tàu từ 6h-23h, tất cả các ngày trong tuần, tương ứng tổng thời gian khai thác là 17 giờ/ngày. Khoảng thời gian từ 0h đến 6h sẽ được dành cho công tác bảo trì, bảo dưỡng kết cấu hạ tầng và phương tiện.\n\nThời gian giãn cách giữa các đoàn tàu là 20 phút/chuyến và thời gian chạy tàu là 20,3 phút.\n\nSơ bộ tổng mức đầu tư dự án khoảng 102.430 tỷ đồng, chưa bao gồm chi phí giải phóng mặt bằng 12.784 tỷ đồng do ngân sách đảm nhiệm. Thời hạn hoạt động dự án 70 năm kể từ ngày được phê duyệt chủ trương đầu tư.\n\nViệc bồi thường, giải phóng mặt bằng dự kiến triển khai từ quý IV/2025. UBND TPHCM yêu cầu tuyến đường sắt phải được đưa vào khai thác trong năm 2028 (không bao gồm 4 ga giai đoạn 2).\n\nDự án được kỳ vọng hiện thực hóa chiến lược, quy hoạch phát triển hệ thống giao thông vận tải và hệ thống đường sắt, thúc đẩy phát triển kinh tế - xã hội của các địa phương thuộc vùng kinh tế trọng điểm phía Nam nói riêng và vùng Đông Nam Bộ nói chung.",
+      "author": "Admin",
+      "category": "Kinh Tế",
+      "date": "8/12/2025",
+      "status": "published",
+      "imageName": "chungkhoan1.jpeg",
+      "slug": "ng-st-bn-thnh---cn-gi-s-chy-17-tingngy",
+      "views": 2
+    },
+    {
+      "id": "21fe",
+      "title": "Khởi tố nam diễn viên trộm túi xách của hoa hậu Mexico tại Đà Lạt",
+      "summary": "Nam diễn viên Nguyễn Lâm Thái bị khởi tố, bắt tạm giam để điều tra cáo buộc trộm túi xách hàng hiệu của hoa hậu Mexico trong một sự kiện tại tỉnh Lâm Đồng.",
+      "content": "Nam diễn viên Nguyễn Lâm Thái bị khởi tố, bắt tạm giam để điều tra cáo buộc trộm túi xách hàng hiệu của hoa hậu Mexico trong một sự kiện tại tỉnh Lâm Đồng.\nNgày 8/12, Công an phường Xuân Hương - Đà Lạt (tỉnh Lâm Đồng) khởi tố bị can, bắt tạm giam Nguyễn Lâm Thái (25 tuổi, ngụ TPHCM) để điều tra hành vi trộm cắp tài sản.\n\nThái bị cáo buộc lấy trộm túi xách của hoa hậu Mexico Leon Yuriar Angela Michelle khi cô tham dự một sự kiện tại Đà Lạt.\n\nNguyễn Lâm Thái làm việc với công an. Ảnh: N.X\nRạng sáng 6/12, hoa hậu Leon Yuriar Angela Michelle (Miss Cosmo Mexico) trình báo bị mất túi xách đựng máy ảnh khi dự sự kiện tại Quảng trường Lâm Viên (phường Xuân Hương - Đà Lạt) vào đêm 5/12. Trong túi có tiền mặt, máy ảnh, thẻ tín dụng và nhiều vật dụng cá nhân, tổng giá trị khoảng 200 triệu đồng.\n\nTiếp nhận tin báo, Công an phường Xuân Hương - Đà Lạt xác minh, truy tìm và đưa Nguyễn Lâm Thái về làm việc. Tại cơ quan công an, Thái thừa nhận hành vi và giao nộp toàn bộ tang vật.\n\nThái khai cùng bạn từ TPHCM lên Đà Lạt tối 5/12. Đến nơi, anh ta đến Quảng trường Lâm Viên xem Lễ hội Trà quốc tế. Không thuộc ban tổ chức, nhưng do được phát nhầm thẻ ra vào, Thái đã lợi dụng để vào phòng thay đồ, giả vờ chỉnh trang và chụp ảnh.\n\nHoa hậu Leon Yuriar Angela Michelle (Miss Cosmo Mexico) nhận lại túi xách bị mất trộm. Ảnh: N.X\nTheo lời khai, khoảng 22h cùng ngày, khi các thí sinh đang biểu diễn, Thái lấy trộm túi xách hiệu LV của hoa hậu Leon Yuriar Angela Michelle đặt trên ghế không người trông coi, rồi rời hiện trường bằng cửa sau.\n\nHồ sơ cho thấy Thái từng có tiền án về tội trộm cắp và đang trong thời gian thử thách 28 tháng.\n\nNguyễn Lâm Thái được biết đến là diễn viên, quản lý nghệ sĩ và đạo diễn sân khấu, tham gia nhiều hoạt động thiện nguyện. Tài khoản TikTok của anh có hơn 69.000 người theo dõi và 3,4 triệu lượt thích.",
+      "author": "Admin",
+      "category": "Thời sự",
+      "date": "8/12/2025",
+      "status": "published",
+      "imageName": "thoi-su-4.jpg",
+      "slug": "khi-t-nam-din-vin-trm-ti-xch-ca-hoa-hu-mexico-ti--lt",
+      "views": 9
+    },
+    {
+      "id": "e5c6",
+      "title": "Mạnh thường quân tố không liên lạc được người nhận tiền Nuôi em, công an vào cuộc",
+      "summary": "Các nhà hảo tâm cho rằng, họ đã chuyển tiền cho dự án Nuôi em Nghệ An nhưng đến nay không thể liên lạc với \"đầu mối\" nhận tiền. Công an tỉnh Nghệ An đã vào cuộc xác minh.\nSáng 8/12, trao đổi với PV VietNamNet, lãnh đạo Công an tỉnh Nghệ An cho biết liên quan đến dự án Nuôi em ở Nghệ An, đơn vị đã nhận được một số đơn và chuyển cho bộ phận chức năng giải quyết.",
+      "content": "Các nhà hảo tâm cho rằng, họ đã chuyển tiền cho dự án Nuôi em Nghệ An nhưng đến nay không thể liên lạc với \"đầu mối\" nhận tiền. Công an tỉnh Nghệ An đã vào cuộc xác minh.\nSáng 8/12, trao đổi với PV VietNamNet, lãnh đạo Công an tỉnh Nghệ An cho biết liên quan đến dự án Nuôi em ở Nghệ An, đơn vị đã nhận được một số đơn và chuyển cho bộ phận chức năng giải quyết.\n\nTrước đó, nhiều nhà hảo tâm gửi đơn phản ánh đến Công an Nghệ An liên quan dự án Nuôi em thiếu minh bạch về tài chính.\n\nMạnh thường quân đồng loạt tố cáo\n\nChị Nguyễn Thị Hậu (trú phường Thái Hoà, tỉnh Nghệ An) cho biết đầu năm học 2025-2026, chị nhận đăng ký hỗ trợ hai học sinh ở Trường Tiểu học Mường Ải với mức hơn 1,9 triệu đồng/em/năm. \n\nTuy nhiên, sau khi liên lạc với phụ huynh, chị được biết học sinh mình nhận hỗ trợ không đăng ký ăn bán trú tại trường.\n\n\"Tôi liên lạc với một phụ huynh mà tôi nhận đăng ký hỗ trợ thì họ nói con họ không đăng ký ăn trưa tại trường. Còn một phụ huynh nữa thì tôi không liên lạc được. Tuy nhiên, qua nắm bắt thông tin, tất cả những học sinh trong bản đó đều không ăn trưa tại trường, nhưng họ vẫn nhận tiền của tôi\", chị Hậu băn khoăn.\n\na Phạm Tâm.webp\nHọc sinh Trường tiểu học Bảo Nam 2, Nghệ An ăn bán trú từ nguồn hỗ trợ dự án Nuôi em. Ảnh: P.Tâm\nTheo chị Hậu, chị đã chuyển khoản vào quỹ theo số tài khoản Vietcombank mang tên Đỗ Thị Ng., chi nhánh Vinh.\n\n\"Hiện tại chúng tôi không thể liên lạc được với chị Ng. Đợt tháng 10 vừa qua, chị Ng. có nhắn tin trong nhóm nói rằng, 'cho ít thời gian để xác minh tính minh bạch của dự án', và từ đó đến nay không thể liên lạc được.\n\nTrong nhóm có nhiều người đã đóng tiền nhiều năm và chúng tôi đã làm đơn tập thể tố cáo lên cơ quan điều tra Công an tỉnh Nghệ An. Có 16 người ký trực tiếp và khoảng 100 mạnh thường quân ký đơn online\", chị Hậu cho hay.\n\nCũng theo chị Hậu, trước đó, chị và các mạnh thường quân không biết về chị Đỗ Thị Ng., mà chỉ thấy quảng cáo về dự án trên Facebook. \"Thấy họ giới thiệu rằng chương trình được điều phối bởi Trung ương Đoàn và Trung tâm truyền hình quốc gia, tôi nghĩ đây là hoạt động có sự tham gia của cơ quan nhà nước nên tin tưởng và đã chuyển khoản”, chị Hậu nói.\n\nNhóm mạnh thường quân sau đó làm việc với Tỉnh đoàn Nghệ An và được thông tin rằng đây chỉ là dự án do một số cá nhân tự kêu gọi, Tỉnh đoàn hoàn toàn không biết.\n\nTrường học thiếu tiền ăn hai tháng\n\nBà Nguyễn Thị Hằng, Hiệu trưởng Trường Mầm non Mai Sơn (xã Nhôn Mai) cho hay phía nhà trường có tham gia dự án Nuôi em từ năm học 2024.\n\nTại trường, 100% học sinh là người dân tộc thiểu số như Thái, Khơ Mú, Mông… Dự án hỗ trợ 8.000 đồng/em/bữa trưa và sau đó nâng lên 10.000 đồng/em/bữa, áp dụng từ thứ Hai đến thứ Sáu.\n\n\"Năm ngoái trường có 60 học sinh, năm nay có 140 em được hỗ trợ tiền ăn. Tuy vậy, năm nay họ chưa thanh toán. Năm trước họ chuyển tiền ăn về cho trường, sau đó trường thanh toán cho nhà cung ứng\", bà Hằng nói.\n\ndự án nuôi em.jpg\nMỗi em sẽ được hỗ trợ từ 8.000-10.000 đồng/bữa trưa. Ảnh: Q.Đ\nCũng theo bà Hằng, năm nay, dự án hỗ trợ các em bắt đầu từ tháng 10. Tuy nhiên, hai tháng qua (tháng 10-11), phía nhà trường vẫn chưa được nhận được tiền hỗ trợ này.\n\nThông thường, đến cuối mỗi tháng họ sẽ thanh toán đầy đủ. Tuy nhiên, không rõ vì lý do gì mà đã hai tháng trôi qua dự án vẫn chưa chuyển kinh phí cho nhà trường theo thỏa thuận. Riêng trong hai tháng này, dự án còn nợ nhà trường 42 triệu đồng.\n\n“Mỗi bữa ăn của các em trị giá 20.000 đồng, dự án hỗ trợ một nửa, phần còn lại chúng tôi vận động phụ huynh. Hiện chúng tôi rất lo lắng vì chưa biết lấy nguồn nào để bù vào khoản tiền mà dự án đã hứa nhưng chưa chuyển. Trước mắt, nhà trường sẽ họp phụ huynh; nếu dự án không tiếp tục hỗ trợ, chúng tôi buộc phải vận động phụ huynh đóng tiền ăn trưa cho trẻ”, bà Hằng nói.\n\nDự án \"Nuôi em Nghệ An\" là hoạt động thiện nguyện hỗ trợ bữa ăn bán trú cho học sinh vùng khó khăn thuộc các huyện (cũ) miền núi phía Tây tỉnh Nghệ An, bắt đầu từ năm 2019 đến nay.\n\nVới dự án này, mỗi học sinh mầm non và tiểu học sẽ được một nhà hảo tâm “nhận nuôi”, thông qua việc dự án cung cấp mã của học sinh cho nhà hảo tâm. Sau đó, nhà hảo tâm chuyển khoản kinh phí hỗ trợ ăn bán trú cho dự án.\n\nKhi nhận được nguồn kinh phí này, dự án sẽ phân bổ và chuyển đến các điểm trường. Khoản đóng góp của nhà hảo tâm nhằm bổ sung khẩu phần ăn bán trú cho học sinh, bên cạnh chế độ ăn bán trú mà nhiều điểm trường đã được ngân sách Nhà nước cấp.\n\nPhía dự án giới thiệu Trưởng Ban thường trực mạng lưới tình nguyện quốc gia khu vực miền Trung giữ vai trò phụ trách dự án là Đỗ Thị Ng. \n\nTrong giai đoạn năm học từ 2019-2024, nhà hảo tâm hỗ trợ 1.550.000 đồng/học sinh/năm học (gồm tiền ăn, mua khay đựng cơm, thìa, đĩa…). Năm học 2024-2025 và 2025-2026, số tiền hỗ trợ tăng lên 1.910.000 đồng/học sinh/năm học.\n\nMỗi bữa ăn, nhà trường sẽ lên thực đơn, bữa ăn thịt, đậu, canh, rau... với giá chỉ 7.000 - 8.000 đồng/suất, cộng thêm sự hỗ trợ từ gia đình và địa phương các em sẽ có bữa ăn no và đủ chất.\n\nTheo thống kê sơ bộ, tại các điểm trường ở Nghệ An có 241 học sinh được 61 nhà hảo tâm nhận nuôi với số tiền hơn 500 triệu đồng.",
+      "author": "Admin",
+      "category": "Thời sự",
+      "date": "8/12/2025",
+      "status": "published",
+      "imageName": "thoi-su-5.jpeg",
+      "slug": "mnh-thng-qun-t-khng-lin-lc-c-ngi-nhn-tin-nui-em-cng-an-vo-cuc",
+      "views": 3
+    },
+    {
+      "id": "7691",
+      "title": "Hoa hậu Thùy Tiên chấp nhận thi hành bản án 2 năm tù",
+      "summary": "Gần một tháng sau khi phiên sơ thẩm kết thúc, hoa hậu Thùy Tiên chấp nhận thi hành bản án 2 năm tù mà không kháng cáo. TAND TPHCM cũng không nhận được kháng cáo của Hằng Du Mục, Quang Linh Vlogs, Lê Tuấn Linh và Lê Thành Công.",
+      "content": "Sau gần một tháng kể từ khi kết thúc phiên xét xử sơ thẩm vụ án Lừa dối khách hàng liên quan đến sản phẩm kẹo Kera do Nguyễn Thúc Thùy Tiên (hoa hậu), Phạm Quang Linh (Quang Linh Vlogs), Nguyễn Thị Thái Hằng (Hằng Du Mục) và các đồng phạm thực hiện, đến nay TAND TPHCM vẫn chưa nhận được đơn kháng cáo của các bị cáo.\n\nLuật sư Nguyễn Quốc Cường (bào chữa cho hoa hậu Thùy Tiên) cho biết Thùy Tiên chấp nhận mức án mà cấp sơ thẩm đã tuyên và không kháng cáo. Tương tự, Quang Linh Vlogs, Hằng Du Mục, Lê Tuấn Linh và Lê Thành Công cũng chưa có kháng cáo.\n\nTrước đó, TAND TPHCM đã tuyên phạt hoa hậu Thùy Tiên, Hằng Du Mục và Quang Linh Vlogs mỗi người 2 năm tù; bị cáo Lê Tuấn Linh (Giám đốc, đại diện pháp luật Công ty CER) và Lê Thành Công (thành viên HĐQT) mỗi người 3 năm tù.\n\nTheo bản án sơ thẩm, tháng 7/2024, Phạm Quang Linh, Hằng Du Mục cùng một số cộng sự bàn bạc việc góp vốn lập công ty livestream - quảng bá - bán hàng trên mạng xã hội. Sau đó, nhóm kêu gọi thêm các cổ đông khác và thống nhất thành lập Công ty Chị Em Rọt.\n\nTrong quá trình xây dựng kế hoạch kinh doanh, một thành viên đề xuất sản xuất kẹo rau củ để tiêu thụ nông sản. Nhóm sau đó đặt vấn đề mời Thùy Tiên góp vốn và thống nhất thành lập thêm Công ty CP Kera Việt Nam (công ty con). Tuy nhiên, do thủ tục thành lập chưa hoàn tất, cả nhóm dùng pháp nhân Công ty Chị Em Rọt để đứng tên pháp lý và triển khai sản phẩm.\n\nTỷ lệ phân chia lợi nhuận được thống nhất: Thùy Tiên hưởng 25%, các cổ đông còn lại nhận 75%. Sau đó, nhóm nâng tỷ lệ của Thùy Tiên lên 30%.\n\nSau khi thống nhất ý tưởng, nhóm liên hệ Công ty Asia Life nghiên cứu sản xuất kẹo Kera. Trong quá trình này, các bị cáo không kiểm tra chất lượng, không giám sát nguyên liệu hay công nghệ sản xuất.\n\nCơ quan điều tra xác định hàm lượng chất xơ trong một viên kẹo chỉ 0,935%, rất thấp so với công dụng được quảng cáo. Công ty Asia Life không có vùng nguyên liệu đạt chuẩn VietGAP. Nhóm bị cáo không có bằng chứng khoa học để khẳng định “một viên kẹo bằng một đĩa rau”.\n\nDù vậy, các bị cáo vẫn ban hành bản tự công bố sản phẩm với 10 loại bột rau củ quả chiếm 28,13%, không đúng thực tế.\n\nKhông chỉ vậy, nhóm bị cáo còn xây dựng kịch bản, quay video tại vùng nguyên liệu được thuê để tạo niềm tin cho khách hàng về chất lượng, nguồn gốc và công nghệ sản xuất.\n\nDo tin vào quảng cáo, đã có 56.385 khách hàng mua kẹo Kera. Một số người mang sản phẩm đi kiểm nghiệm tại Trung tâm Kỹ thuật Đo lường Chất lượng và phát hiện 100g kẹo chỉ có 0,51g chất xơ, không đúng với nội dung giới thiệu.",
+      "author": "Admin",
+      "category": "Thời sự",
+      "date": "8/12/2025",
+      "status": "published",
+      "imageName": "hhthuytien-1506.jpg",
+      "slug": "hoa-hu-thy-tin-chp-nhn-thi-hnh-bn-n-2-nm-t",
+      "views": 0
+    },
+    {
+      "id": "7233",
+      "title": "TPHCM bắn pháo hoa tại 4 điểm chào đón năm mới 2026",
+      "summary": "TPHCM sẽ bắn pháo hoa nghệ thuật tại 4 điểm và tổ chức chuỗi sự kiện văn hóa, thể thao quy mô lớn phục vụ người dân, du khách đón năm mới 2026.",
+      "content": "Theo kế hoạch UBND TP.HCM vừa ban hành, chương trình bắn pháo hoa đón năm mới 2026 sẽ diễn ra từ 0h đến 0h15 ngày 1/1. Thành phố tổ chức bắn pháo hoa tại 4 địa điểm, gồm 3 điểm tầm cao: khu vực đầu hầm sông Sài Gòn (phường An Khánh), khu trung tâm Thành phố mới (phường Bình Dương) và Quảng trường Tam Thắng (phường Vũng Tàu).\n\nMột điểm tầm thấp được bố trí tại Công viên văn hóa Đầm Sen (phường Bình Thới). Kinh phí chương trình được huy động từ nguồn xã hội hóa.\nBên cạnh pháo hoa, TPHCM chuẩn bị nhiều chương trình văn hóa, nghệ thuật chào đón năm mới. Sự kiện Countdown 2026 sẽ diễn ra đêm 31/12 tại phố đi bộ Nguyễn Huệ, mở rộng ra trục Lê Lợi, Công viên Lam Sơn và khu vực trước Nhà hát Thành phố, theo hình thức xã hội hóa.\n\nChương trình nghệ thuật ngoài trời mừng Tết Dương lịch được tổ chức tại Công viên trước Trung tâm Hành chính tỉnh Bình Dương cũ (phường Bình Dương). Chuỗi sự kiện “Khơi sóng bình minh 2025” gồm giải chạy và đồng diễn yoga sáng 31/12 tại Quảng trường Tháp Tam Thắng (phường Vũng Tàu), cùng chương trình nghệ thuật vào buổi tối.\n\nNgày hội Văn hóa Ẩm thực diễn ra từ 27/12/2025 đến 1/1/2026 tại Bãi Sau (phường Vũng Tàu), cũng theo hình thức xã hội hóa. Thành phố đồng thời triển khai trang trí ánh sáng nghệ thuật trên các tuyến đường trung tâm và nhiều khu vực khác.\n\nCác chương trình nghệ thuật đón năm mới được tổ chức tại nhiều phường, xã như Dầu Tiếng, Xuân Sơn, Bình Khánh, Gò Vấp, Phú Thạnh trong đêm 31/12. Nhà Văn hóa Thanh niên, các trường đại học, cao đẳng, trung cấp, ký túc xá cùng các khu chế xuất, khu công nghiệp cũng tổ chức hoạt động văn nghệ trong hai đêm 31/12 và 1/1.",
+      "author": "Admin",
+      "category": "Thời sự",
+      "date": "8/12/2025",
+      "status": "published",
+      "imageName": "w-phao-hoa-108070-2190.jpg",
+      "slug": "tphcm-bn-pho-hoa-ti-4-im-cho-n-nm-mi-2026",
+      "views": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "author": "Độc giả A",
+      "content": "Bài viết rất hay và kịp thời! Cần có nhiều chính sách hơn nữa.",
+      "date": "01/12/2025"
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "author": "Độc giả B",
+      "content": "Tôi đồng ý với quan điểm của tác giả về tự chủ công nghệ.",
+      "date": "01/12/2025"
+    },
+    {
+      "id": "3",
+      "postId": 2,
+      "author": "Độc giả C",
+      "content": "Mong người dân vùng lũ sớm ổn định cuộc sống.",
+      "date": "30/11/2025"
+    },
+    {
+      "id": "5",
+      "postId": 1,
+      "author": "Độc giả B",
+      "content": "Tôi đồng ý với quan điểm của tác giả về tự chủ công nghệ.",
+      "date": "01/12/2025"
+    },
+    {
+      "id": "2e28",
+      "postId": "2",
+      "author": "hải",
+      "content": "sss",
+      "date": "8/12/2025"
+    }
+  ]
+}
